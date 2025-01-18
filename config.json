@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Aɭoŋe ĦoOŋ Ɣwɽ",
-    "PREFIX": "#",
+    "BOTNAME": "Tumhara bap",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100085303477541"
+        "61569958042471"
     ],
     "NDH": [
-        "100001212940148"
+        "61569958042471"
     ],
     "DATABASE": {
         "sqlite": {
